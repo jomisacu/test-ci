@@ -1,0 +1,20 @@
+{
+  "name": "vendor_name/test-ci",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "j",
+      "email": "jomisacu.software@gmail.com"
+    }
+  ],
+  "require": {
+  },
+  "scripts": {
+    "tests": "NonConventionalTests::test1"
+  },
+  "autoload": {
+    "classmap": ["tests"]
+  }
+}
