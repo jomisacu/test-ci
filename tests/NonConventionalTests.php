@@ -8,7 +8,6 @@ final class NonConventionalTests
 {
     public static function test1()
     {
-        echo 'the script fails';
-        exit(1);
+        echo 'All is ok';
     }
 }
