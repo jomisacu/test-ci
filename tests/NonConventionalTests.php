@@ -8,6 +8,6 @@ final class NonConventionalTests
 {
     public static function test1()
     {
-        echo 'All is ok';
+        echo 'All is ok!';
     }
 }
